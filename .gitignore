@@ -1,6 +1,4 @@
-target
-*.iml
-*.class
-*.jar
-*.pyc
+vendor
+composer.phar
+composer.lock
 .idea
